@@ -1,2 +1,2 @@
 # JustJava
- Beginner App
+ learning to build apps using Java
